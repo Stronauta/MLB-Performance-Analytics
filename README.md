@@ -63,13 +63,6 @@ El modelo permite distinguir qué factores separan a un jugador promedio de uno 
   <img src="img/wOba%20en%20jugadores%20Elite%20y%20no%20Elite.png" width="500" alt="wOBA Elite vs No Elite">
 </p>
 
-## 👥 Equipo D.A.T.A
-*Unidos por el análisis de datos y la pasión por el béisbol.*
-
-* **Arlene Miniel**
-* **Elvis Rafael Rosado**
-* **Felix Mendoza**
-* **Samir Ernesto Castillo**
 
 ---
 📝 **Nota:** Este proyecto fue desarrollado con fines académicos para el Módulo 6 del programa de Ciencia de Datos.
